@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DesignPattern_Composite\bin\Debug\DesignPattern_Composite.exe.config
+C:\Users\Admin\source\repos\DesignPattern_Composite\bin\Debug\DesignPattern_Composite.exe
+C:\Users\Admin\source\repos\DesignPattern_Composite\bin\Debug\DesignPattern_Composite.pdb
+C:\Users\Admin\source\repos\DesignPattern_Composite\obj\Debug\DesignPattern_Composite.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DesignPattern_Composite\obj\Debug\DesignPattern_Composite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DesignPattern_Composite\obj\Debug\DesignPattern_Composite.exe
+C:\Users\Admin\source\repos\DesignPattern_Composite\obj\Debug\DesignPattern_Composite.pdb

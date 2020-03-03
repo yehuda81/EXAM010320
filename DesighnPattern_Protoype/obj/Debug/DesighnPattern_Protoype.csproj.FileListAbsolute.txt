@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\bin\Debug\DesighnPattern_Protoype.exe.config
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\bin\Debug\DesighnPattern_Protoype.exe
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\bin\Debug\DesighnPattern_Protoype.pdb
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\obj\Debug\DesighnPattern_Protoype.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\obj\Debug\DesighnPattern_Protoype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\obj\Debug\DesighnPattern_Protoype.exe
+C:\Users\Admin\source\repos\DesighnPattern_Protoype\obj\Debug\DesighnPattern_Protoype.pdb

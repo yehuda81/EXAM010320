@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ThinkQuestion\bin\Debug\ThinkQuestion.exe.config
+C:\Users\Admin\source\repos\ThinkQuestion\bin\Debug\ThinkQuestion.exe
+C:\Users\Admin\source\repos\ThinkQuestion\bin\Debug\ThinkQuestion.pdb
+C:\Users\Admin\source\repos\ThinkQuestion\obj\Debug\ThinkQuestion.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ThinkQuestion\obj\Debug\ThinkQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ThinkQuestion\obj\Debug\ThinkQuestion.exe
+C:\Users\Admin\source\repos\ThinkQuestion\obj\Debug\ThinkQuestion.pdb
